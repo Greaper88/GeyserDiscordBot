@@ -14,7 +14,7 @@ __**Switch/XBox:**__
 
 __**Secondary DNS:**__
 I use my router's "Default gateway" but there are others (Google, your ISP, other free ones, etc. Other addresses to try include 1.1.1.1 and 8.8.4.4 and 8.8.8.8)
-Remember to restart your console after any changes to these settings to apply them
+*Remember to restart your console after any changes to these settings to apply them!*
 
 __**PS4/XBox refusing DNS settings:**__
 *iOS:* Download Bedrock Together, and use the Win10/Mobile settings in the app, then go to your game's "Friends" tab.
