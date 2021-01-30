@@ -12,7 +12,7 @@ __**Switch/XBox:**__
 *Primary DNS:*
 136.49.186.24
 
-__**Secondary DNS:**__
+*Secondary DNS:*
 I use my router's "Default gateway" but there are others (Google, your ISP, other free ones, etc. Other addresses to try include 1.1.1.1 and 8.8.4.4 and 8.8.8.8)
 *Remember to restart your console after any changes to these settings to apply them!*
 
@@ -31,4 +31,4 @@ https://youtu.be/i0OSOvTIiUQ
 For PS4/5 and stubborn XBox:
 https://www.youtube.com/watch?v=TGFgkJ_4C_Q
 
-**Warning:** Due to Geyser handling certain things different to a vanilla Java client you may get banned using this (see `!tag anticheat` for more info). As well as this, if you use online mode you are sending your Java account credentials to a third party.
+***Warning:*** Due to Geyser handling certain things different to a vanilla Java client you may get banned using this (see `!tag anticheat` for more info). As well as this, if you use online mode you are sending your Java account credentials to a third party.
