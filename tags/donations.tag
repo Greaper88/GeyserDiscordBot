@@ -2,5 +2,4 @@ type: text
 
 ---
 
-Thank you for your interest, but at present we do not accept donations.
-We do have the infrastructure in place though and we may open donations in the future if there is enough interest.
+Thank you for your interest. You can support us monthly on our [Patreon](https://www.patreon.com/geyserconnect) and donating gets you a role on the Discord as well as access to a donators only channel!
