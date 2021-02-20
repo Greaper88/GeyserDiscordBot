@@ -11,7 +11,7 @@ __**Win10/Mobile:**__
 
 __**Switch/XBox:**__
 *Primary DNS:*
-136.49.186.24
+136.49.126.87
 
 *Secondary DNS:*
 I use my router's "Default gateway" but there are others (Google, your ISP, other free ones, etc. Other addresses to try include 1.1.1.1 and 8.8.4.4 and 8.8.8.8)
