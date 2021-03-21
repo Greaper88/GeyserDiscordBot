@@ -1,0 +1,17 @@
+type: text
+aliases: ps, ps4
+
+---
+
+__***Playstation***__
+
+You will use the address of `geyserconnect.gq` with port `19132` in any of the methods listed below:
+
+Choose a method based on what type of device you own:
+
+***iOS:*** Download Bedrock Together, enter the GC info, then go to your game's "Friends" tab.
+
+***Android:*** Download the GeyserMC Android app, select "LAN Proxy" or "Join a Bedrock Server," enter the GC info, then go to your game's "Friends" tab.
+https://ci.opencollab.dev/job/GeyserMC/job/GeyserAndroid/job/master/
+
+***PC:*** Download and setup Phantom on your computer, you may also be able to run the android app from Bluestacks. enter the GC info to set it up and make your way to your game's "Friends" tab.
