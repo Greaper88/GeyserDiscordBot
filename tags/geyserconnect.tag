@@ -23,7 +23,7 @@ __***PS4/XBox refusing DNS settings:***__
 **Android:** Download the [GeyserMC Android app](https://ci.opencollab.dev/job/GeyserMC/job/GeyserAndroid/job/master/), select "LAN Proxy" or "Join a Bedrock Server" and use the Win10/Mobile setting. Then go to your game's "Friends" tab.
 If you can't install APKs, you may use [MC Server Connector](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) instead, but it has ads and in-app purchases unlike the GMC app.
 
-**PC:** Download and setup [Phantom](https://github.com/jhead/phantom) on your computer, you may also be able to run the android app from Bluestacks. Use the Win10/Mobile settings to set it up and make your way to your game's "Friends" tab.
+**PC:** Download and setup [Phantom](https://github.com/jhead/phantom) on your computer, you may also be able to run the android app from [Bluestacks](https://www.bluestacks.com/). Use the Win10/Mobile settings to set it up and make your way to your game's "Friends" tab.
 
 
 General Information and Switch/XBox setup:
