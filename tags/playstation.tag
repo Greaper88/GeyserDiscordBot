@@ -5,7 +5,7 @@ aliases: ps, ps4, ps5
 
 __***Playstation***__
 
-You will use the address of `geyserconnect.gq` with port `19132` in any of the methods listed below:
+You will use the address of `geyserconnect.net` with port `19132` in any of the methods listed below:
 
 Choose a method based on what type of device you own:
 
