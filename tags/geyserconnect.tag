@@ -6,7 +6,7 @@ aliases: bedrockconnect, consoles,
 To connect to the GeyserConnect, the info is as follows:
 
 __***Win10/Mobile:***__
-*Address:* `geyserconnect.gq`
+*Address:* `geyserconnect.net`
 *Port:* `19132`
 
 __***Switch/XBox:***__
